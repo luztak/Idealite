@@ -4,3 +4,8 @@
 */
 var h = require("http");
 
+var conf = {'name':'Idealite',
+            'author':'',
+            'url':'',
+            'description':''
+}
